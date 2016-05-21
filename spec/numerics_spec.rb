@@ -12,4 +12,4 @@ describe Numerics do
       Numerics.odd?(4) == false
     }
   end
-
+end
